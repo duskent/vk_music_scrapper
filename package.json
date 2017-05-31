@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Julian Ronayi <yuliy.ronayi@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "cheerio": "^1.0.0-rc.1"
   }
