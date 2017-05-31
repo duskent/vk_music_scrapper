@@ -1,0 +1,10 @@
+{
+  "name": "vk_music_scrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Julian Ronayi <yuliy.ronayi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1"
+  }
+}
